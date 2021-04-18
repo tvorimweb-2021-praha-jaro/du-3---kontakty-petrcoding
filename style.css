@@ -1,0 +1,51 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    padding-left: 2rem;
+    margin-bottom: 0;
+}
+
+h2 {
+    margin-top: 0.5rem;
+    margin-bottom: 2rem;
+    font-size: 700;
+}
+
+.profile-photo {
+    width: 150px;
+    border-radius: 50%;
+}
+
+.allcontacts {
+    display: flex;
+    position: relative;
+    margin: 2rem;
+    background-color: rgba(231, 227, 226, 0.973);
+    border-radius: 10px;
+}
+
+.contact {
+    max-width: 22%;
+    margin: 2rem;
+    margin-right: 0;
+    padding: 2rem;
+    background-color: white;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.monika {
+    margin-right: 2rem;
+}
+
+.links {
+    text-align: center;
+}
+
+.link-pics {
+    height: 35px;
+    width: 35px;
+    margin: 3px;
+}
